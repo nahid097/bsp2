@@ -1,0 +1,106 @@
+.navbar{
+    background-image:linear-gradient( to right, #a517ba,#5f1782) !important;
+   
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    font-weight: 600;
+}
+
+/* banner sytle */
+#banner{
+    background-image:linear-gradient( to right, #a517ba,#5f1782) !important;
+    color: white;
+   
+}
+#banner img{
+    width: 50px;
+}
+#banner a{
+    text-decoration: none;
+    color:white;
+}
+
+/* service section style */
+.title:after{
+content:'';
+display: block;
+background: #7b1798;
+height: 5px;
+width: 200px;
+margin: auto;
+transform: translatey(18px);
+
+}
+
+.service1img{
+    width: 100px;
+}
+#section-box{
+    margin-top: 50px;
+}
+.btn-section{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    color:white;
+    padding: 9px 18px;
+    border: none;
+    border-radius: 20px;
+   
+}
+
+/* about section style */
+
+#about{
+    margin-top: 50px;
+}
+
+/* testimonital section style */
+
+.user-details img{
+    width: 70px;
+}
+
+/* Social Section style */
+
+#social-media{
+    background: #f8f9fa;
+}
+
+#social-media  img {
+    width: 60px;
+    transition: 0.5s;
+}
+
+#social-media img:hover{
+    transform:translateY(-10px);
+}
+
+/* footer section style*/
+
+#footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+}
+.footer-box .fas{
+    font-size: 25px;
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    padding-top: 7px;
+    margin-right: 10px;
+
+}
+
+.footer-box input{
+    border-radius: 0;
+    border: none;
+    margin-bottom: 18px;
+}
+
+.footer-box button{
+    background-image:linear-gradient(to right, #a517ba,#5f1782);
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+}
